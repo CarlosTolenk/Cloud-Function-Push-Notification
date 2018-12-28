@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "control-diamante-1519145676088",
+  "private_key_id": "7df7ba6ac114937fa68f754c6cbc5d46de726709",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDlmJe2WeK39BSo\nsDWfEukdukmIDoTInDssikkaEcQfh1G+ZMS45djMyy8zDrmYYZGI64O0zs6IFdO+\nJ9yaYapwIzs310KcCrKiBLr8gm3yoc3lRVElxwGRnBcsVQbFcjmH0fcGACFn1D0N\naLS7Y//45vAHssi4MnWFXOBwtznWLiihh0T7vC8jZ6Ik+ZLWb5m5QrHjutizNwe2\nFK6VnHuRYRlyhNUim9mkFPvowHLSLRSRgVLydIcdg0mM2tmr2yLZabqNW0KTyero\nxexd3Qt7Vwoy1oo4lZNCUymZz40cflq1uHkSbwiS/lRSkP87B0FEO1EVqUaDN+YZ\nXfuGXwy9AgMBAAECggEAZAObPvub1/8yyqLr0M43j1QZePO+IvdvjYD1xC3uDb/w\nO2yBB3xUey2dc3PcJEWIVKknV+lorX44nVKW9gdKbAvk3XffU8MTOqGt5JZal8Gl\nQ9T0uuycQdZJf+3QA820wvYTUeFXq/eX2tH8PM8cb8wFzoyyhA6zA/PH70HZp3Lj\nrYF/yQxm/ZxvCPkfPNhu/TWOKs+NHvWYNX+YTe1POyW6Ly5A+rPHQEFYCck8W7aw\ne5AnKtPVmrQ+oAlKG5YzY/Ew/b4F2VnHCPLI80d1zwfUpISyH0fBAx1hHxVG3UiE\nFRelQKYwOO5kpVENT8fllsec8ZChwwqDHCf/A2Ql3wKBgQD8GY2mn7jkQbo5bSrS\nSpkm2SesPYGZQPvH2XgXPrZQrTWy5OXjaMddemgYCqoHaYCnUtx8gO9eHAbqJX57\nlr7s/KnD+R4pgzH1Vds76yPbTFYEMk/NUK5I7AWRfTxJ5NIONeSz56y9E39sjFuc\nDU/Ok5EOsjaJ2Xn6w586xbO96wKBgQDpJemnhNx6Rw1dnzaz1L+Y6bj0FExpThQI\nzoxjo43clewSP7pWbGVeUK+wkcv0ZY6YeSmgVwyJ3n4hu9wF8euPH/5/HTr7F9Ve\nHtMWp9mwZGXd8mr6i+2VLbNbNhQwW+I3HbcQJw5Yy5lqi6Ra9i5ODG3XQXrSi8MX\njPkflhGt9wKBgQDERtzrevXH+YiVB3LMkboV7gKebrDFcjvVyHJgnrnxrDnf06lM\n2hpGpHQBK+Rfqvu4yqHR6cz0F5wmlxSYArEZ8En4w6+BIJ035yWuzA95wUBDOiy5\nrPRU4DYhpUDYQ2hsGfe7PkhWWaTfDZSRtieJrYjFyWj/AKyg2cfSSXT9CwKBgQCi\nZJXq6M/pG7RjkZI4j+ckSydYWwseDhRGThfbDwCwtHxJ+bmAmN/CYdD924+EG3jH\nGx2zYO6K2T5hoMgQHAFHH7HUODfszR0BAddl4GPwSP3rKf75pJ1HWx2iWniVdmqK\nmVf5GDsV/jpNzBYehXqbQmz/kcxK+q5YqQicx5po4QKBgExABcrd/X4ueddwlLCN\nNjUEpugDkGEmGa4v8eyR/JDtcoH5+E0LTimTkGMUCqGaIygi/GzJzncaDnrT2nN0\nrAk80qy/WY8I+/jNvO9twMmfsBMlMB+w0RSATH0YHTcgkvOHjEzhPB0ITecuYVFZ\n5gw1otWSI8ECP3UdZ06/zgCB\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-sh3gy@control-diamante-1519145676088.iam.gserviceaccount.com",
+  "client_id": "100503770606299227282",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-sh3gy%40control-diamante-1519145676088.iam.gserviceaccount.com"
+}

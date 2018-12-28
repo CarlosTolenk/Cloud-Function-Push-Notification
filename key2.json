@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "control-diamante-1519145676088",
+  "private_key_id": "846c3012aff286908a3d6e1b64cdfaea5c1a4755",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDIZazqKeeqtUFc\nqk+F1FEmRhIMfDfp3tmV3d2eoK8Reynr/3HnPf52e3QwpmKReTRr5gYfi+nnA+mu\nll6GQQnBdJEKGZHPL1cPoECfVjCGNboQMK9X8UT6TNHAcJpnpujJ8TWwxRLrXbdc\n6t3t5UTQXG4dIWSm3J2FyxoB5oBVpaEE1gwY/GFg0OjxwYEPMLCh+ctkFQIx6yLw\n05cCvJGFdOd0F7RSjWE+13mJaMud5BD3BSmRhUqT80QgnkZwl/8iUjewEeJOrIgq\nAe2jt6KQkSHE/DxQod4TVFVfF2d3IzG7ttdqgB7wKUQd1xPGNRCZ4drDmRymUMAr\nxTnCi++VAgMBAAECggEACrJks74nY9UXh1T++C+QYljgq0JxMJ5o4mdMpmRA3A/F\nOdfxkkycmeH2nocvIUFFQ1Istv/erSpoDZ3wrz1nAijQ+idJwXOvM8IT2P1+ixdw\nll8m6OyTyEGT+6/3CfvelrL1sPkgDKi8uiy+Sm3Pych5RzxKVV7W2Lax7XKKnKep\nvZ6smsF4vGo7WRRZjsazDtrAbk1DHyMeK9htgz3aqIF906N1l2aNt7PeFG6SK8va\nQWHUn0DWqMevygK46j/6tQ4MfBxMIJaKuvhXdVzU3ILR1KXffyqpt2gRdWc82/wV\n0uBXFoumLKDjXh/Ucjsi7MDf3al3wYBU7ygHkx0pkQKBgQDjkSqAeroZ6mw61/vD\nofNC7pevsIuK9QDut4831ntZwlCtGIA+O+Y69rGn4qqG0MZbJFlJspi+MIuzpYD4\nLagk8B3e7whnn55JU0m6dI1FQQSDWkqZjQdDyoXPiU02xif0aEhtH+tv3uCVd5Q+\nHkigTgLAnOcs3+U8qwHNT9ERRQKBgQDhb3fv/SrFVuRSh8iCvvG8jDD3Mvuvqqqg\nBQvZ3TZgVQzlXl6s7a4cea8Z6ZTlg1TGJKBGdlXOHPGqz6LKW4hvQpii34g+xso9\nC4NjTZZATn5E2PXdc3qhvl3yMpqDS25BTHeewEXHw3im0X7kNtZFrWqEwK1CV5Cj\ngGZupr5CEQKBgHlh/Catz8h1ByfX/t2Z69SeyWAYLkZ/avDqDkV9bSwyfq/lqroH\nX0XCQn7HY6gngjYpTEsILXr9D/dR51n5mH+jaHt6SqRjOp3oBCKlepkfFhYuOi5v\nUBmz0+4gUYRO7A7s9PzoEsAIRQjU0MjVhG2lTsiIqLKB9peGq55k3aJ1AoGAfeW6\nnZRNZpf4Ov8Jw7rPVfUVA3i9hoVRdLxcufcIfxQAd7gUN48lRVHPsDD6rpKBrYaW\n28MKeGlBrZr31vr3XutaQtuDQ0vRdfYQEk0qNA+iBOEFrf7n5Zxi6vfHwrtFf8Is\nq8PFNKK9pqwoqVrWn2MRscHJANvWMvlqOzFz34ECgYEAlPlMk35f+nbJxrZshh+c\n+Qzw1B+VuVnzOZdh+icjrpBKF14aioAfGojvcopi+6hWpzqUq4nwPkvOc/NfM/Om\ntmHCgFhhfRF5hQzHviN8bDQgjQs6XCPsn/51AA9sMXaQfYUF1xFW8V3M7rCFvOWj\nhB/0NH/gPiaHdIpmo4JoGPQ=\n-----END PRIVATE KEY-----\n",
+  "client_email": "control-diamante-1519145676088@appspot.gserviceaccount.com",
+  "client_id": "106585026148497539724",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/control-diamante-1519145676088%40appspot.gserviceaccount.com"
+}
